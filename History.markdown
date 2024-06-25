@@ -45,6 +45,7 @@
   * Jekyll docs template typo - All pages show &#34;Deployment&#34; (#9548)
   * Fixed: Wrong navigation style on the right side of news and docs pages (#9586)
   * Add redirect for step-by-step tutorial (#9593)
+  * Add Jekyll 3.10.0 release post &amp; history (#9625)
 
 ### Development Fixes
 
@@ -98,6 +99,19 @@
 ### Development Fixes
 
   * Backport #9237 for v4.3.x: Use Hash explicitly for Struct initializer (#9285)
+
+## 3.10.0 / 2024-06-23
+
+### Minor Enhancements
+
+  * Backport add-csv-dependency from #9522 to Jekyll 3 (#9616)
+  * 3.10-stable: Add webrick as a dependency (#9620)
+
+## 3.9.5 / 2024-02-12
+
+### Minor Enhancements
+
+  * 3.9-stable: allow Pages to be Excerpted (#9550)
 
 ## 3.9.4 / 2023-12-28
 
